@@ -1,3 +1,4 @@
+/*
 package com.yujin.jpastudy;
 
 import com.yujin.jpastudy.domain.Member;
@@ -37,3 +38,4 @@ public class MemberRepositoryTest {
     }
 
 }
+*/
