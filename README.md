@@ -11,3 +11,6 @@ JPA 활용 1_웹 애플리케이션 개발
 3. 회원/상품/주문 도메인 개발 -- 회원도메인 진행중
 4. 웹 계층 개발
 ```
+### 확인 및 정리
+* persist -> EntityManagerFactory, EntityManager
+* Transaction commit
